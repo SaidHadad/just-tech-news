@@ -1,17 +1,19 @@
-<<<<<<< Updated upstream
+
 # just-tech-news
-=======
+
 <!-- PROJECT TITE -->
   <h1 align="center">Tech Blog</h1>
   
   <!-- DESCRIPTION -->
   <p align="center">
+
   A simple blog site built with JavaScript, using Express.js, handlebars, MySQL for the database, Sqeualize, dotenv and TDD with Jest.
 
   The user can login/signup to an account, and that account allows the user to create new posts, leave comments, reviews, and upvote or downvote a post
 
   <!-- DEPLOYED LINK -->
   GitHub repository URL: https://github.com/SaidHadad/just-tech-news
+
 
   <!-- TABLE OF CONTENTS -->
   <details open="open">
@@ -54,6 +56,7 @@
   * HTML5
   * Express.js
   * REST
+
   
   <!-- LICENSE -->
   
@@ -68,5 +71,5 @@
   ## Contact
   Name: Said David Hadad <br>
   Email: saiddavid.hadad@gmail.com <br>
+
   GIT: https://github.com/SaidHadad <br>
->>>>>>> Stashed changes
